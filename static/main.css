@@ -1,0 +1,19 @@
+/* All Color Variables  */
+:root {
+    /* Default theme: White/Grey/Black */
+    --primaryColor: #f6f0e8;
+    --itemBackground: #c5c5c5;
+    --textColor: #0a0a0a;
+    --readOnlyColor: #0a0a0a;
+    --highlightOpacity: brightness(90%);
+    --shiftIndication: #0a0a0a;
+    --linkColor: #4f4f4f;
+    --tableColor: #f6f0e8;
+    --headerColor: #0a0a0a;
+    --tableItemBackground: #808080;
+    --buttonBackground: #808080;
+    --buttonText: #0a0a0a;
+    --shiftColor: #0a0a0a;
+    --messageTextColor: #0a0a0a;
+    --focusText: #808080;
+}
